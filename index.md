@@ -326,12 +326,12 @@ h2 { text-align: center; color: #24292f; margin: 40px 0 20px 0; }
 <div style="text-align: center;">
   <h2>Dein Leben, nicht dein Job</h2>
   <div class="gallery-grid">
-    <img src="/images/chart1.jpg" alt="Sie sind nicht allein" title="Sie sind nicht allein – Sie sind in guten Händen." style="background: linear-gradient(135deg, #667eea, #764ba2);">
-    <img src="/images/chart2.jpg" alt="Ihr Vermögen ist geschützt" title="Ihr Vermögen ist geschützt, nicht gefährdet." style="background: linear-gradient(135deg, #ff6b35, #f7931e);">
-    <img src="/images/chart3.jpg" alt="Keine Blackbox" title="Keine Blackbox – nur transparente Entscheidungen." style="background: linear-gradient(135deg, #764ba2, #667eea);">
-    <img src="/images/chart4.jpg" alt="Sicherheit entsteht durch Struktur" title="Sicherheit entsteht durch Struktur, nicht durch Glück." style="background: linear-gradient(135deg, #00ff88, #00cc6a);">
-    <img src="/images/chart5.jpg" alt="Hier wird nicht spekuliert" title="Hier wird nicht spekuliert – hier wird geplant." style="background: linear-gradient(135deg, #ff4757, #ff3838);">
-    <img src="/images/chart6.jpg" alt="Sie handeln mit Rückendeckung" title="Sie handeln mit Rückendeckung, nicht im Blindflug." style="background: linear-gradient(135deg, #f7931e, #ff6b35);">
+    <img src="images/chart1.jpg" alt="Sie sind nicht allein" title="Sie sind nicht allein – Sie sind in guten Händen." style="background: linear-gradient(135deg, #667eea, #764ba2);">
+    <img src="images/chart2.jpg" alt="Ihr Vermögen ist geschützt" title="Ihr Vermögen ist geschützt, nicht gefährdet." style="background: linear-gradient(135deg, #ff6b35, #f7931e);">
+    <img src="images/chart3.jpg" alt="Keine Blackbox" title="Keine Blackbox – nur transparente Entscheidungen." style="background: linear-gradient(135deg, #764ba2, #667eea);">
+    <img src="images/chart4.jpg" alt="Sicherheit entsteht durch Struktur" title="Sicherheit entsteht durch Struktur, nicht durch Glück." style="background: linear-gradient(135deg, #00ff88, #00cc6a);">
+    <img src="images/chart5.jpg" alt="Hier wird nicht spekuliert" title="Hier wird nicht spekuliert – hier wird geplant." style="background: linear-gradient(135deg, #ff4757, #ff3838);">
+    <img src="images/chart6.jpg" alt="Sie handeln mit Rückendeckung" title="Sie handeln mit Rückendeckung, nicht im Blindflug." style="background: linear-gradient(135deg, #f7931e, #ff6b35);">
   </div>
 </div>
 
@@ -442,4 +442,5 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 });
+
 </script>
